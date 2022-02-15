@@ -1,0 +1,56 @@
+body {
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
+.app-container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1976d2;
+  color: white;
+  height: 5% !important;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+
+}
+
+
+.add-todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-todo-textfieled {
+  display: flex;
+  flex: 1;
+  margin-top: 1%;
+  max-width: 80%;
+}
+
+.margin {
+  margin: 1%;
+}
+
+.pagination-holder{ 
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}

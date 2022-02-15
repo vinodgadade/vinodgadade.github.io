@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Feed Dog",
+        "starred": true
+    },
+    {
+        "task": "Call Parents",
+        "starred": false
+    },
+    {
+        "task": "Complete assignedment",
+        "starred": false
+    },
+    {
+        "task": "Charge phone",
+        "starred": false
+    },
+    {
+        "task": "Test Drive Car",
+        "starred": false
+    },
+    {
+        "task": "Wake up early",
+        "starred": false
+    },
+    {
+        "task": "Go to bed early",
+        "starred": true
+    }
+]
